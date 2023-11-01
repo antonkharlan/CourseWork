@@ -1,0 +1,2 @@
+D:\CudaRuntime1\x64\Debug\CudaRuntime1.exe
+D:\CudaRuntime2\x64\Debug\CudaRuntime1.exe
